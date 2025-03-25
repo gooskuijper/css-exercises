@@ -1,0 +1,19 @@
+.pinkClass {
+    background-color: rgb(255, 142, 160);
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+.pinkVariation {
+    font-size: 24px;
+}
+
+#idOne {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#idTwo {
+    background-color: rgb(95, 255, 95);
+    font-size: 24px;
+    font-weight: bold;
+}
